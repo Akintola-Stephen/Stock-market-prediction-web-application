@@ -1,0 +1,5 @@
+db.sqlite3
+Scripts
+wsgi.py
+.vscode
+__pycache__
