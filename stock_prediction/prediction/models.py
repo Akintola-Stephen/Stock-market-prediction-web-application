@@ -2,6 +2,7 @@ from django.db import models
 
 # Create your models here.
 
+# Database table will be created in sqlite database
 class Stock(models.Model):
     stocker = models.CharField(max_length=50)
     stock_date = models.DateField()
