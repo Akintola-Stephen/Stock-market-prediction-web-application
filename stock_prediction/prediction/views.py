@@ -24,7 +24,7 @@ def index(request):
                     stock.stock_price, stock.stock_high,
                     stock.stock_low, stock.no_shares
                 ]
-            ]).reshape(1, 4)
+            ]).reshape(1, 6)
 
         model_path = 'ML/code/code folder/model.pkl'
         ar = joblib.load(open(model_path, 'rb'))
