@@ -39,5 +39,6 @@ print(ar.score(X_train, y_train))
 
 prediction = ar.predict(X_train)
 
+# pickling the trained ML model so as to make predictions on test data
 joblib.dump(ar, 'model.pkl')
 
