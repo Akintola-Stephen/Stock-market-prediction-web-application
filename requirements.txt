@@ -52,7 +52,7 @@ PyYAML==5.4.1
 pyzmq==22.0.3
 requests==2.25.1
 rjsmin==1.1.0
-scikit-image==0.18.1
+scikit-image==0.18.0rc1
 scikit-learn==0.24.1
 seaborn==0.11.1
 six==1.15.0
