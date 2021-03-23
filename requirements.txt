@@ -36,7 +36,7 @@ ndindex==1.4
 networkx==2.5
 numpy==1.19.5
 openpyxl==3.0.6
-pandas==1.2.2
+pandas==1.1.5
 parso==0.8.1
 pickleshare==0.7.5
 Pillow==8.1.0
