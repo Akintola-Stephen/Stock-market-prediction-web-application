@@ -62,7 +62,7 @@ threadpoolctl==2.1.0
 tifffile==2020.9.3
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
+traitlets==4.3.3
 urllib3==1.26.3
 versioned-hdf5==1.2.3
 virtualenv==16.7.9
