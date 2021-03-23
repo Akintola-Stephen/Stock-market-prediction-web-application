@@ -61,7 +61,7 @@ sympy==1.7.1
 threadpoolctl==2.1.0
 tifffile==2020.9.3
 toml==0.10.2
-tornado==6.1
+tornado==4.3.3
 traitlets==5.0.5
 urllib3==1.26.3
 versioned-hdf5==1.2.3
