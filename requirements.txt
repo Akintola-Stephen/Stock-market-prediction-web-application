@@ -18,7 +18,6 @@ h5py==2.10.0
 idna==2.10
 imageio==2.9.0
 ipykernel==5.5.0
-ipython==7.20.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jdcal==1.4.1
